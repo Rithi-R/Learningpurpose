@@ -1,1 +1,2 @@
 Hi ! hello form git 
+i pushed files but ic ouldn't see it in github
