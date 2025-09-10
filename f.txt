@@ -1,4 +1,4 @@
 hello
-from brnachA
+from branchA trying the merge conflict
 from branchB
 
