@@ -3,3 +3,4 @@ from branchA trying the merge conflict
 from branchB
 from brnach
 Hello second commit from branchA
+Manual github
